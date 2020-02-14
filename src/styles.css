@@ -1,0 +1,45 @@
+@import url('//fonts.googleapis.com/css?family=Sriracha&display=swap');
+
+* {
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+}
+
+.laps {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.laps span {
+    font-size: 288px;
+}
+
+button {
+    background-color: #f9f9f9;
+    border: black;
+    font-size: 18px;
+    padding: 22px;
+    margin: 8px;
+}
+
+.showTime{
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.showTotalTime {
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.bigger {
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+.medium {
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 40px;
+}
